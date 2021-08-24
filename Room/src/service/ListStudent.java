@@ -1,14 +1,12 @@
 package service;
 
 import model.Student;
-import data.StudentWriteFile;
 
 import java.util.List;
 import java.util.Scanner;
 
 
-public class listStudent {
-    //    ArrayList<Student> listStudent = new ArrayList<Student>();
+public class ListStudent {
     List<Student> listStudent;
 
     public void addStudent(Student student) {

@@ -1,14 +1,14 @@
 package persentation;
 
 
-import service.listStudent;
+import service.ListStudent;
 import model.Student;
 
 import java.util.Scanner;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
-        listStudent listStudent = new listStudent();
+        ListStudent listStudent = new ListStudent();
         int num, num1, num2,num3;
         do {
             printMenu();
