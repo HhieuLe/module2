@@ -1,10 +1,11 @@
-package StudentAndStudent.List;
+package service;
 
-import StudentAndStudent.Student;
-import StudentAndStudent.WriteReadFile.StudentWriteFile;
+import model.Student;
+import data.StudentWriteFile;
 
 import java.util.List;
 import java.util.Scanner;
+
 
 public class listStudent {
     //    ArrayList<Student> listStudent = new ArrayList<Student>();

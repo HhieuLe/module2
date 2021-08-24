@@ -1,7 +1,8 @@
-package StudentAndStudent;
+package persentation;
 
 
-import StudentAndStudent.List.listStudent;
+import service.listStudent;
+import model.Student;
 
 import java.util.Scanner;
 

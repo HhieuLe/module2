@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JSON/JSON.iml" filepath="$PROJECT_DIR$/JSON/JSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lession 10/Lession 10.iml" filepath="$PROJECT_DIR$/Lession 10/Lession 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lession 12__JavaCollection/Lession 12__JavaCollection.iml" filepath="$PROJECT_DIR$/Lession 12__JavaCollection/Lession 12__JavaCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lession 13/Lession 13.iml" filepath="$PROJECT_DIR$/Lession 13/Lession 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lession 19/Lession 19.iml" filepath="$PROJECT_DIR$/Lession 19/Lession 19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lession 2/Lession 2.iml" filepath="$PROJECT_DIR$/Lession 2/Lession 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lession 21/Lession 21.iml" filepath="$PROJECT_DIR$/Lession 21/Lession 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lession 3/Lession 3.iml" filepath="$PROJECT_DIR$/Lession 3/Lession 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lession 4/Lession 4.iml" filepath="$PROJECT_DIR$/Lession 4/Lession 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lession 5/Lession 5.iml" filepath="$PROJECT_DIR$/Lession 5/Lession 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lession 6/Lession 6.iml" filepath="$PROJECT_DIR$/Lession 6/Lession 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lession 7/Lession 7.iml" filepath="$PROJECT_DIR$/Lession 7/Lession 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lession 9/Lession 9.iml" filepath="$PROJECT_DIR$/Lession 9/Lession 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lession16/Lession16.iml" filepath="$PROJECT_DIR$/Lession16/Lession16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Modeule2.1.iml" filepath="$PROJECT_DIR$/.idea/Modeule2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Room/Room.iml" filepath="$PROJECT_DIR$/Room/Room.iml" />
+    </modules>
+  </component>
+</project>

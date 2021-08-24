@@ -1,6 +1,6 @@
-package StudentAndStudent.WriteReadFile;
+package data;
 
-import StudentAndStudent.Student;
+import model.Student;
 
 import java.io.*;
 import java.util.ArrayList;
